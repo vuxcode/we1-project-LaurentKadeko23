@@ -5,5 +5,32 @@
 }
 
 body{
-  font-family: ;
+  font-family: 'Arial',sans-serif;
+  color: slategray;
+}
+
+.container{
+  width: 60%;
+  margin: 0 auto;
+}
+
+h1,h2{
+  color: orange;
+  text-transform: uppercase;
+  font-weight: 300;
+  padding: 10px;
+}
+
+footer{
+  background-color: grey;
+  margin-top: 50px;
+  padding: 15px;
+  color: white;
+}
+
+footer p{
+  text-align: right;
+  margin-right: 40px;
+  padding-top: 20px;
+  margin-bottom: 20px;
 }
