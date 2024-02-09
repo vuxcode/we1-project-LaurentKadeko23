@@ -34,3 +34,19 @@ footer p{
   padding-top: 20px;
   margin-bottom: 20px;
 }
+
+/* media querry for smaller screen */
+@media screen and (max-width: 700) {
+  .container{
+    width: 90%;
+  }
+
+  h1{
+    font-size: 200%;
+  }
+
+  img{
+    width: 100%;
+  }
+ 
+}
