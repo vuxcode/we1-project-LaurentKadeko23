@@ -7,3 +7,11 @@ function ingridientsHover(){
 function ingridientsNormal(){
   document.getElementById("ingridients").firstElementChild.style.fontSize = "100%"
 }
+
+function preperationHover(){
+  document.getElementById("preperation").firstElementChild.style.fontSize = "200%"
+}
+
+function preperationNormal(){
+  document.getElementById("preperation").firstElementChild.style.fontSize = "100%"
+}

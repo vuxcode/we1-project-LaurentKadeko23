@@ -28,6 +28,11 @@ footer{
   color: white;
 }
 
+img{
+  padding: 20px;
+}
+
+
 footer p{
   text-align: right;
   margin-right: 40px;
