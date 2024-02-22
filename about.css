@@ -25,6 +25,11 @@ section img{
   width: 224px;
 }
 
+span{
+  position: relative;
+  left: -12px;
+}
+
 section p {
   padding: 0 30px;
   background-color: white;

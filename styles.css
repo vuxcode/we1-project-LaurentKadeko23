@@ -44,6 +44,10 @@ nav li{
   width: 60%;
   margin: 0 auto;
 }
+span{
+  position: relative;
+  left: -8px;
+}
 
 h1,h2{
   color: orange;
