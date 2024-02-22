@@ -9,6 +9,18 @@ body{
   color: slategray;
 }
 
+#ingridients ul li{
+  line-height: 25px;
+}
+
+#preperation ol li{ 
+  line-height: 30px;
+}
+
+header p{
+  line-height: 25px;
+}
+
 a{
   text-decoration: none;
   color: black;
