@@ -9,6 +9,25 @@ body{
   color: slategray;
 }
 
+a{
+  text-decoration: none;
+  color: black;
+}
+.logo{
+  padding: 0;
+  margin: 0;
+  width: 90px;
+  border-radius: 50%;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav li{
+  list-style: none;
+  margin: 0 20px;
+}
 .container{
   width: 60%;
   margin: 0 auto;
@@ -51,6 +70,10 @@ footer p{
   }
 
   img{
+    width: 100%;
+  }
+
+  nav{
     width: 100%;
   }
  
