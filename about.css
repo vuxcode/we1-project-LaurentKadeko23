@@ -13,3 +13,38 @@ nav a{
 nav a:hover{
   background-color: #afaccea9;
 }
+
+section{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+section img{
+  width: 224px;
+}
+
+section p {
+  padding: 0 30px;
+  background-color: white;
+  color: black;
+  height: 25svh;
+  line-height: 23px;
+}
+
+p{
+  color: white;
+}
+
+@media screen and (max-width: 760px) {
+  section {
+    width: 100%;
+  }
+
+
+
+   img{
+    width: 100%;
+  }
+}
