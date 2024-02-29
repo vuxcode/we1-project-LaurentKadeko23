@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 body{
   font-family: 'Arial',sans-serif;
   color: slategray;
@@ -87,6 +88,7 @@ footer p{
 
   img{
     width: 100%;
+    background-size: 100%;
   }
 
   nav{
