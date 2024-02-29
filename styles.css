@@ -13,6 +13,10 @@
   line-height: 20px;
 }
 
+.container img{
+  margin: 0 auto;
+}
+
 h1{
   text-align: center;
 }
