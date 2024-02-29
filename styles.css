@@ -54,9 +54,9 @@ nav li{
   margin: 0 20px;
 }
 
-span{
+menu span{
   position: relative;
-  left: -8px;
+  left: -15px;
 }
 
 h1,h2{
