@@ -9,6 +9,9 @@
   margin: 0 auto;
 }
 
+.container p{
+  line-height: 20px;
+}
 
 h1{
   text-align: center;
